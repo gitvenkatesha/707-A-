@@ -1,0 +1,4 @@
+1. Architecture 2
+a.don
+2.Kubernetes - YAML Syntax, Pod Spec
+a.

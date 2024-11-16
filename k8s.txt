@@ -1,0 +1,9 @@
+1.explain me about k8s why? and what? and how? explain in easy and retail time application
+a.promt for murline
+ eeror: 1. socat not found in system path
+ans: opan port in themaster node
+2.error: resource mapping not found for name: "" namespace: "" from "deplyoment.yml": no matches for kind "Deplyoment" in version "v1"
+ensure CRDs are installed first
+ans:in metadata name is not mentuned
+1.knoladge
+Persistent volume refers to a storage volume in a cloud computing environment that exists independently of any particular virtual machine (VM) or container. This means that the data stored in a persistent volume is retained even when the VM or container is stopped or deleted. Persistent volumes are commonly used in scenarios where data needs to persist beyond the lifecycle of individual computing instances. They provide a way to store and manage data separately from the compute resources, allowing for data to be shared between different instances as needed.

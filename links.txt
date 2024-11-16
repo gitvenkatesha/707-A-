@@ -1,0 +1,5 @@
+1.https://dev.to/idanref/kubernetes-concepts-deep-dive-50en
+2.https://dev.to/sharadregoti/kubernetes-services-explained-cluster-ip-nodeport-loadbalancer-ingress-ingress-controllers-470a
+3.https://dev.to/vladimirmukhin/100-kubernetes-interview-questions-that-will-land-you-any-kubernetes-job-jnj
+4.https://dev.to/devopsbymani/kubernetes-resource-quotas-and-limit-ranges-with-namespaces-3lhh
+5.https://dev.to/rocksetcloud/how-we-analyze-and-visualize-kubernetes-events-in-real-time-at-rockset-2idg
